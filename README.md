@@ -107,4 +107,4 @@ I'm an app, web, and software developer who is adept at HTML and CSS as well as 
 
 ► Worked on a year long university project with five other students on developing a website and mobile app with a MySQL database to store the application's data. The development of the software required utilizing the Scrum framework as part of an Agile methodology. Requirements were gathered from the client, UML diagrams and user stories were written, tasks were assigned as part of sprints, and the final product was presented to the client.
 
-► Worked on and published numerous personal projects that involved the usage of the skills listed above, these projects are viewable in the projects section.
+► Worked on and published numerous personal projects that involved the usage of the skills listed above, these projects are viewable on my GitHub page as well as my [portfolio](https://www.xtrendence.dev).

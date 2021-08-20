@@ -17,33 +17,39 @@ I'm an app, web, and software developer who is adept at HTML and CSS as well as 
 
 #### I can code in...
 
-<img src="./images/icons/html.png" width="48"/>
-<img src="./images/icons/css.png" width="48"/>
-<img src="./images/icons/js.png" width="48"/>
-<img src="./images/icons/dart.png" width="48"/>
-<img src="./images/icons/php.png" width="48"/>
-<img src="./images/icons/mysql.png" width="48"/>
-<img src="./images/icons/java.png" width="48"/>
-<img src="./images/icons/c-sharp.png" width="48"/>
+<p float="left">
+	<img src="./images/icons/html.png" width="48"/>
+	<img src="./images/icons/css.png" width="48"/>
+	<img src="./images/icons/js.png" width="48"/>
+	<img src="./images/icons/dart.png" width="48"/>
+	<img src="./images/icons/php.png" width="48"/>
+	<img src="./images/icons/mysql.png" width="48"/>
+	<img src="./images/icons/java.png" width="48"/>
+	<img src="./images/icons/c-sharp.png" width="48"/>
+</p>
 
 ---
 #### I can speak...
 
-<img src="./images/icons/uk.png" width="48"/>
-<img src="./images/icons/italy.png" width="48"/>
-<img src="./images/icons/iran.png" width="48"/>
-<img src="./images/icons/spain.png" width="48"/>
+<p float="left">
+	<img src="./images/icons/uk.png" width="48"/>
+	<img src="./images/icons/italy.png" width="48"/>
+	<img src="./images/icons/iran.png" width="48"/>
+	<img src="./images/icons/spain.png" width="48"/>
+</p>
 
 ---
 #### I can use...
 
-<img src="./images/icons/nodejs.png" width="48"/>
-<img src="./images/icons/electron.png" width="48"/>
-<img src="./images/icons/react-native.png" width="48"/>
-<img src="./images/icons/flutter.png" width="48"/>
-<img src="./images/icons/git.png" width="48"/>
-<img src="./images/icons/docker.png" width="48"/>
-<img src="./images/icons/photoshop.png" width="48"/>
+<p float="left">
+	<img src="./images/icons/nodejs.png" width="48"/>
+	<img src="./images/icons/electron.png" width="48"/>
+	<img src="./images/icons/react-native.png" width="48"/>
+	<img src="./images/icons/flutter.png" width="48"/>
+	<img src="./images/icons/git.png" width="48"/>
+	<img src="./images/icons/docker.png" width="48"/>
+	<img src="./images/icons/photoshop.png" width="48"/>
+</p>
 
 </center>
 

@@ -2,7 +2,7 @@
 ---
 
 <center>
-	<img src="./images/banner.png"/>
+	<img title="Banner" src="./images/banner.png"/>
 </center>
 
 <center>
@@ -22,37 +22,37 @@ I'm an app, web, and software developer who is adept at HTML and CSS as well as 
 #### I can code in...
 
 <p float="left">
-	<img src="./images/icons/html.png" width="48"/>
-	<img src="./images/icons/css.png" width="48"/>
-	<img src="./images/icons/js.png" width="48"/>
-	<img src="./images/icons/dart.png" width="48"/>
-	<img src="./images/icons/php.png" width="48"/>
-	<img src="./images/icons/mysql.png" width="48"/>
-	<img src="./images/icons/java.png" width="48"/>
-	<img src="./images/icons/c-sharp.png" width="48"/>
+	<img title="HTML" src="./images/icons/html.png" width="48"/>
+	<img title="CSS" src="./images/icons/css.png" width="48"/>
+	<img title="JS" src="./images/icons/js.png" width="48"/>
+	<img title="Dart" src="./images/icons/dart.png" width="48"/>
+	<img title="PHP" src="./images/icons/php.png" width="48"/>
+	<img title="MySQL" src="./images/icons/mysql.png" width="48"/>
+	<img title="Java" src="./images/icons/java.png" width="48"/>
+	<img title="C#" src="./images/icons/c-sharp.png" width="48"/>
 </p>
 
 ---
 #### I can speak...
 
 <p float="left">
-	<img src="./images/icons/uk.png" width="48"/>
-	<img src="./images/icons/italy.png" width="48"/>
-	<img src="./images/icons/iran.png" width="48"/>
-	<img src="./images/icons/spain.png" width="48"/>
+	<img title="English" src="./images/icons/uk.png" width="48"/>
+	<img title="Italian" src="./images/icons/italy.png" width="48"/>
+	<img title="Farsi" src="./images/icons/iran.png" width="48"/>
+	<img title="Spanish" src="./images/icons/spain.png" width="48"/>
 </p>
 
 ---
 #### I can use...
 
 <p float="left">
-	<img src="./images/icons/nodejs.png" width="48"/>
-	<img src="./images/icons/electron.png" width="48"/>
-	<img src="./images/icons/react-native.png" width="48"/>
-	<img src="./images/icons/flutter.png" width="48"/>
-	<img src="./images/icons/git.png" width="48"/>
-	<img src="./images/icons/docker.png" width="48"/>
-	<img src="./images/icons/photoshop.png" width="48"/>
+	<img title="Node.js" src="./images/icons/nodejs.png" width="48"/>
+	<img title="Electron" src="./images/icons/electron.png" width="48"/>
+	<img title="React Native" src="./images/icons/react-native.png" width="48"/>
+	<img title="Flutter" src="./images/icons/flutter.png" width="48"/>
+	<img title="Git" src="./images/icons/git.png" width="48"/>
+	<img title="Docker" src="./images/icons/docker.png" width="48"/>
+	<img title="Photoshop" src="./images/icons/photoshop.png" width="48"/>
 </p>
 
 </center>

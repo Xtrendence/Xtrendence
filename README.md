@@ -51,6 +51,7 @@ I'm an app, web, and software developer who is adept at HTML and CSS as well as 
 	<img title="Electron" src="./images/icons/electron.png" width="48"/>
 	<img title="React Native" src="./images/icons/react-native.png" width="48"/>
 	<img title="Flutter" src="./images/icons/flutter.png" width="48"/>
+	<img title="Socket.IO" src="./images/icons/socket.io.png" width="48"/>
 	<img title="Git" src="./images/icons/git.png" width="48"/>
 	<img title="Docker" src="./images/icons/docker.png" width="48"/>
 	<img title="Photoshop" src="./images/icons/photoshop.png" width="48"/>

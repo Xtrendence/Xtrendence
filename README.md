@@ -25,6 +25,7 @@ I'm an app, web, and software developer who is adept at HTML and CSS as well as 
 	<img title="HTML" src="./images/icons/html.png" width="48"/>
 	<img title="CSS" src="./images/icons/css.png" width="48"/>
 	<img title="JS" src="./images/icons/js.png" width="48"/>
+	<img title="TypeScript" src="./images/icons/ts.png" width="48"/>
 	<img title="Dart" src="./images/icons/dart.png" width="48"/>
 	<img title="PHP" src="./images/icons/php.png" width="48"/>
 	<img title="MySQL" src="./images/icons/mysql.png" width="48"/>
@@ -70,7 +71,7 @@ I'm an app, web, and software developer who is adept at HTML and CSS as well as 
 
 </center>
 
-► Develop and maintain responsive and SEO-focused websites using HTML, CSS, and JavaScript (including jQuery).
+► Develop and maintain responsive and SEO-focused websites using HTML, CSS, and JavaScript (including React, TypeScript, and jQuery).
 
 ► Develop websites' and web apps' backends using Node.js and PHP.
 

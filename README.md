@@ -13,7 +13,7 @@
 
 </center>
 
-I'm an app, web, and software developer who is adept at HTML and CSS as well as programming languages like JavaScript, PHP, C#, Dart, and Java. I have been developing apps, websites, and software almost daily since the start of 2017, resulting in approximately 4+ years of programming experience. This entails front-end development with HTML and CSS along with JavaScript (and jQuery), as well as back-end development with PHP and Node.js. In terms of app development, I've been regularly coding apps using the React Native framework as well as Flutter. Furthermore, I can set up and maintain databases using SQL as well while leveraging views, triggers, and stored procedures. I also have a background in graphic design, allowing me to design custom icons and graphics that could be used in software or websites I create.
+I'm an app, web, and software developer who is adept at HTML and CSS as well as programming languages like JavaScript, PHP, C#, Dart, and Java. I have been developing apps, websites, and software almost daily since the start of 2017, resulting in approximately 5+ years of programming experience. This entails front-end development with HTML and CSS along with JavaScript (and jQuery), as well as back-end development with PHP and Node.js. In terms of app development, I've been regularly coding apps using the React Native framework as well as Flutter. Furthermore, I can set up and maintain databases using SQL as well while leveraging views, triggers, and stored procedures. I also have a background in graphic design, allowing me to design custom icons and graphics that could be used in software or websites I create.
 
 ---
 

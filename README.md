@@ -49,6 +49,7 @@ I'm an app, web, and software developer who is adept at HTML and CSS as well as 
 <p float="left">
 	<img title="Node.js" src="./images/icons/nodejs.png" width="48"/>
 	<img title="Electron" src="./images/icons/electron.png" width="48"/>
+	<img title="GraphQL" src="./images/icons/graphql.png" width="48"/>
 	<img title="React Native" src="./images/icons/react-native.png" width="48"/>
 	<img title="Flutter" src="./images/icons/flutter.png" width="48"/>
 	<img title="Socket.IO" src="./images/icons/socket.io.png" width="48"/>
@@ -89,6 +90,8 @@ I'm an app, web, and software developer who is adept at HTML and CSS as well as 
 ► Develop complex desktop applications using Node.js and Electron.
 
 ► Utilize and develop RESTful APIs.
+
+► Develop APIs using GraphQL.
 
 ► Use Agile methodology when working on projects.
 
